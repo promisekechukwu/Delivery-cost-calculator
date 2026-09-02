@@ -1,7 +1,7 @@
 
-#Delivery Cost Calculator
+# Delivery Cost Calculator
 
-##Project Overview
+## Project Overview
 
 
 
@@ -17,7 +17,7 @@ It then uses these details to calculate the total cost of each delivery.
 
 
 
-##Project Objectives
+## Project Objectives
 
 
 
@@ -49,7 +49,7 @@ The program is designed to:
 
 
 
-##Delivery Cost Calculation
+## Delivery Cost Calculation
 
 
 
@@ -72,7 +72,7 @@ The delivery cost is calculated using several components:
 The program first calculates the subtotal and then subtracts the applicable customer discount to determine the final delivery cost.
 
 
-##Python Concepts Used
+## Python Concepts Used
 
 
 
@@ -80,7 +80,7 @@ This project focuses on fundamental Python programming concepts.
 
 
 
-###Variables
+### Variables
 
 
 
@@ -88,7 +88,7 @@ Variables are used to store delivery information and calculated values.
 
 
 
-###Boolean Values
+### Boolean Values
 
 
 
@@ -96,7 +96,7 @@ Boolean expressions are used to determine whether delivery information meets the
 
 
 
-###Conditional Statements
+### Conditional Statements
 
 
 
@@ -104,7 +104,7 @@ if, elif, and else statements are used to apply the different delivery pricing r
 
 
 
-###Functions
+### Functions
 
 
 
@@ -112,7 +112,7 @@ The program uses separate functions for the different calculations, making the c
 
 
 
-###Parameters and Arguments
+### Parameters and Arguments
 
 
 
@@ -120,7 +120,7 @@ Functions receive delivery information through parameters and use arguments when
 
 
 
-###Return Values
+### Return Values
 
 
 
@@ -128,7 +128,7 @@ The calculation functions return the appropriate charges or calculated values.
 
 
 
-###For Loops
+### For Loops
 
 
 
@@ -136,7 +136,7 @@ A for loop is used to process multiple delivery records without writing the same
 
 
 
-###While Loops
+### While Loops
 
 
 
@@ -144,7 +144,7 @@ while loops are used for validation and to ensure that required information meet
 
 
 
-###Variable Scope
+### Variable Scope
 
 
 
@@ -152,7 +152,7 @@ The project demonstrates the difference between global and local variables withi
 
 
 
-##Delivery Information
+## Delivery Information
 
 
 
@@ -180,7 +180,7 @@ The program processes each record individually and calculates its corresponding 
 
 
 
-##Cost Breakdown
+## Cost Breakdown
 
 
 
@@ -201,14 +201,11 @@ For each delivery, the program calculates:
 7. Customer Discount
 
 8. Final Delivery Cost
-
-
-
 This provides a clear breakdown of how the total delivery cost is determined.
 
 
 
-##Processing Multiple Deliveries
+## Processing Multiple Deliveries
 
 
 
@@ -220,7 +217,7 @@ This makes the program more efficient because the same calculation logic can be 
 
 
 
-##Bonus Challenge
+## Bonus Challenge
 
 
 
@@ -260,7 +257,7 @@ The program can determine:
 
 
 
-##Learning Outcomes
+## Learning Outcomes
 
 
 
@@ -290,7 +287,7 @@ Through this project, I gained more practice with:
 
 
 
-##Future Improvements
+## Future Improvements
 
 
 
@@ -310,7 +307,7 @@ Possible improvements for future versions include:
 
 
 
-##Technologies Used
+## Technologies Used
 
 
 
